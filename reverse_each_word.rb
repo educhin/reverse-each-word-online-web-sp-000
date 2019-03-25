@@ -1,4 +1,4 @@
-def reverse_each_word
+def reverse_each_word(line)
   arr = line.split
   newarr = []
 
